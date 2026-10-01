@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+
+
+
+.light{
+  background-color: lightseagreen;
+  display: flex;
+  
+  justify-content: space-between;
+align-items: center;
+  padding: 20px 20px;
+}
+
+.dark{
+  background-color: darkslategray;
+  display: flex;
+  
+  justify-content: space-between;
+align-items: center;
+  padding: 20px 20px;
+}
+.nav2{
+ display: flex;
+ gap: 20px;  
+}
